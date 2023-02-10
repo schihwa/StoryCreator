@@ -1,0 +1,5 @@
+#to ensure selected media isnt in the repo
+*.mp4
+*.wav
+*.ssa
+
